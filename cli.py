@@ -780,6 +780,7 @@ def output_to_lunar_core():
             )
 
             _ = input("Press any key to return to the Main Menu...")
+            _ = os.system("cls")
             return
         # Output the current character's relics to the Lunar Core CLI
         case 2:
@@ -791,6 +792,7 @@ def output_to_lunar_core():
             )
 
             _ = input("Press any key to return to the Main Menu...")
+            _ = os.system("cls")
             return
         # Output the team's relics to the March 7th Console
         case 3:
@@ -805,6 +807,7 @@ def output_to_lunar_core():
                 "\nCopy the following commands from this tool to the March 7th Console to obtain your desired relics."
             )
             _ = input("Press any key to return to the Main Menu...")
+            _ = os.system("cls")
             return
         # Output the team's relics to the Lunar Core CLI
         case 4:
