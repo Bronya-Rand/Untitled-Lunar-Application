@@ -8,12 +8,13 @@ Untitled Lunar Application is a command-line interface (CLI) tool for a certain 
 
 ## Features
 
-1. Updated for HSR 2.1
+1. Updated for Anime RPG Game. 2.1
 2. 4-Party Setup
 3. 6 Relic Slots (4 for Main Relics + 2 SU Relics)
 4. Creation of Standard, Max, "Penta-BIS" and Custom Relics.
-5. Relic and Character Names
-6. Easy command outputs to LunarCore (using Java console or March 7th console).
+  > "Penta-BIS" is what I call Relics that are Level +0, but who's substats are +5 (basically a maxed out +15 relic). Basically, 4 substats at +5 is 4 relics at +15. Ascending the Relic to +15 gets you +75 which has some stats go to (6-10).
+6. Relic and Character Names
+7. Easy command outputs to LunarCore (using Java console or March 7th console).
 
 ## How to use
 
